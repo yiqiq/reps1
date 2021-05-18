@@ -1,4 +1,4 @@
 
 public static void main(String[]args){
-System.output
+System.out.println("你好上海");
         }
